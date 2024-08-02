@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  width: 100%;
+  max-width: 40vw;
+  max-height: 80vh;
+  padding-bottom: 1rem;
+  aspect-ratio: 1/1;
+}
+
+li {
+  padding: 1rem 0;
+}
+
+h3 {
+  margin: 3rem 0;
+}
+
+body {
+  font-family: "Lato";
+  font-size: 1.2rem;
+  color: #333;
+  text-align: center;
+  background-color: rgb(247, 239, 239);
+}
+
+ul {
+  text-align: left;
+  max-width: 600px;
+  margin: 0 auto 50px auto;
+}
+
+.bold {
+  font-weight: 800;
+}
+
+#title {
+  padding: 3rem 0 0.5rem 0;
+}
+
+p {
+  margin: 0 0 2rem 0;
+}
+
+#img-div {
+  background-color: white;
+  padding: 2.5rem 0 1rem 0;
+}
